@@ -1,0 +1,24 @@
+{
+    "name": "ajs-hw-1.2-node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EkaterinaAkhmetzyanova/ajs-hw-1.2-node.js.git"
+    },
+    "author": "Ekaterina Akhmetzyanova",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/EkaterinaAkhmetzyanova/ajs-hw-1.2-node.js/issues"
+    },
+    "homepage": "https://github.com/EkaterinaAkhmetzyanova/ajs-hw-1.2-node.js#readme",
+    "dependencies": {
+        "@ekaterinaakhmetzyanova/ajs-hw-1.1-platforms": "file:../package",
+        "package": "^1.0.1"
+    }
+}
